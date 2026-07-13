@@ -2,6 +2,8 @@
 name: qms-culture-construction
 displayName: Quality culture construction
 description: 质量文化成熟度诊断与分阶段实操落地指导；当企业需要诊断当前质量文化水平、设计落地路线图、策划质量活动、获取行为考核机制时使用。基于 ISO 9001 意识/领导作用等条款锚定，支持战略对齐校验。
+slug: qms-culture-construction
+version: 1.0.0
 ---
 
 # 质量文化建设辅助技能
